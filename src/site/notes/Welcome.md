@@ -3,4 +3,6 @@
 ---
 
 
-Home Page
+This is the Home Page.
+
+Check out the [[TEST PAGE\|Test Page]].
