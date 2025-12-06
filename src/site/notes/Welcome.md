@@ -5,4 +5,4 @@
 
 This is the Home Page.
 
-Check out the [[TEST PAGE\|Test Page]].
+Check out the [[Test-Page\|Test-Page]].
