@@ -1,20 +1,77 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-    
-    // Override heading color CSS variables
-    --h1-color: #ff922f;
-    --h2-color: #f06449;
-    --h3-color: #d4fcc3;
-    --h4-color: #72dcff;
+  /***
+    ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+    IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+  ***/
+  
+  
+  //
+  // PAGE COLORS
+  //
+
+  // Background colors
+  --background-primary: #000000;
+  --background-secondary: #181818;
+  
+  //
+  // FONT COLORS
+  //
+  
+  // Text colors
+  --text-normal: #ffffff;
+  
+  // Heading colors
+  --h1-color: #ff922f;
+  --h2-color: #ffffff;
+  --h3-color: #ffffff;
+  --h4-color: #ffffff;
+  --h5-color: #ffffff;
+  --h6-color: #ffffff;
+  
+  //
+  // FONTS
+  //
+
+  // Font family
+  --font-text: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-interface: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-default: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  
+  // Heading fonts
+  --h1-font: 'Inter', sans-serif;
+  --h2-font: 'Inter', sans-serif;
+  --h3-font: 'Inter', sans-serif;
+  --h4-font: 'Inter', sans-serif;
+  --h5-font: 'Inter', sans-serif;
+  --h6-font: 'Inter', sans-serif;
+  
+  //
+  // FONT SIZES / WEIGHTS
+  //
+  
+  // Heading sizes
+  --h1-size: 1.6em;
+  --h2-size: 1.5em;
+  --h3-size: 1.4em;
+  --h4-size: 1.3em;
+  --h5-size: 1.2em;
+  --h6-size: 1.1em;
+  
+  // Heading weights
+  --h1-weight: 600;
+  --h2-weight: 600;
+  --h3-weight: 600;
+  --h4-weight: 600;
+  --h5-weight: 600;
+  --h6-weight: 600;
+  
+  // Heading variants
+  --h4-variant: normal;
+  --h5-variant: normal;
+  --h6-variant: normal;
+
+  // File header
+  --file-header-font-size: 1em;
+
 }
 
