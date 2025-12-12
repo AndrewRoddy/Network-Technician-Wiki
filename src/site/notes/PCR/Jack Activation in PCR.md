@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/pcr/jack-activation-in-pcr/"}
 ---
 
-
 # Jack Activation
 1. Main > Inventory > Equipment
 2. Add

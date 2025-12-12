@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pcr/teams-phone-in-pcr/"}
 ---
 
+# Add Teams Phone
 1. Create a New `Service Order`, name as normal
 2. Add new `action`, service type in Teams Phone
 	1. You should be able to type just "Teams" and it will auto complete
