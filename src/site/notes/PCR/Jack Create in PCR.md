@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pcr/jack-create-in-pcr/"}
 ---
 
+
 # Jack Create
 1. Main > Inventory > Equipment
 2. Add
