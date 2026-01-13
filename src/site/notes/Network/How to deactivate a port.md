@@ -3,6 +3,8 @@
 ---
 
 
+# How to deactivate a port
+
 1. `ssh` in using the IP you [[Network/Building an IP\|built]]
 	1. `ssh name_stu@XX.XXX.XXX.XX`
 2. `conf t` Enter Configuration Mode 

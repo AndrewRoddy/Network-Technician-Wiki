@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/network/building-an-ip/"}
 ---
 
+# Building an IP
 
 `10.` 
 
