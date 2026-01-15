@@ -4,4 +4,9 @@
 
 
 # Find Service ID
-1. 
+1. Copy the Jack ID
+	1. (`MSC-2E-02-012A`)
+2. Paste it into `Inventory : Equipment`
+3. Click on `Port/Pins/Lens`
+4. Right click on cell in `Service`
+   
