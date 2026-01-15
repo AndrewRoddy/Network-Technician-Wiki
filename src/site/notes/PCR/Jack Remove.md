@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/pcr/jack-move/"}
+{"dg-publish":true,"permalink":"/pcr/jack-remove/"}
 ---
 
 
-# Jack Move
+# Jack Remove
 1. Press `Add`
 2. Change `Action` to `Move`
 	1. Copy `data` ID and paste it in `Service:` 
