@@ -70,7 +70,7 @@
 	2. Search 
 	3. Paste jack ID
 	4. Double Click on it
-	5. If it is not there you need to [[PCR/Jack Create in PCR\|create a new jack]]
+	5. If it is not there you need to [[Jack Create in PCR\|create a new jack]]
 	6. Repeat above.
 38. Add `Destination Port/Pin/Len`
 	1. Input 1
