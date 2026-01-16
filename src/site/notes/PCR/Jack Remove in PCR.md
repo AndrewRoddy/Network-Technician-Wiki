@@ -4,8 +4,10 @@
 
 
 # Jack Remove
-1. Press `Add`
-2. Change `Action` to `Remove`
-3. Copy `data` ID and paste it in `Service:` 
-4. Press `Save New` >> `Save and Close`
-5. Press `Save` 
+1. First, [[PCR/New Service Order in PCR\|create a service order]]
+2. Then copy the [[PCR/Find Service ID - PCR\|Service ID]]
+3. Press `Add`
+4. Change `Action` to `Remove`
+5. Copy `data` ID and paste it in `Service:` 
+6. Press `Save New` >> `Save and Close`
+7. Press `Save` 
