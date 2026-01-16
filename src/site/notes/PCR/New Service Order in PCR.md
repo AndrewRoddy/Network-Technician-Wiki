@@ -17,3 +17,11 @@
 4. Add `Requestor:`
 	1. The person's name in the ticket
 5. Press `Save`
+6. Add the SO# to Fresh Service
+	1. Copy the number in the top left (`SO202606115`)
+	2. The number is next to `SD#`
+	3. Open the ticket in Fresh Service
+	4. Paste the number in `Ticket ID Reference`
+	5. Press `Update`
+
+
